@@ -24,6 +24,8 @@ console.log("release_修复bug1")
 
 console.log("release_修复bug2")
 
+console.log("release_修复bug完成")
+
 console.log("dev_666")
 
 console.log("feature_新功能1")
